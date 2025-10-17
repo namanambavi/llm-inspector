@@ -207,7 +207,7 @@ This uses only pattern matching, which is still highly accurate for most cases.
 ### Build from source
 
 ```bash
-git clone https://github.com/yourusername/llm-inspector.git
+git clone https://github.com/namanambavi/llm-inspector.git
 cd llm-inspector
 npm install
 npm run build
