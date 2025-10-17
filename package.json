@@ -1,6 +1,6 @@
 {
   "name": "llm-inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool that scans codebases to detect and catalog LLM API calls",
   "main": "dist/cli.js",
   "bin": {
@@ -50,4 +50,3 @@
     "node": ">=16.0.0"
   }
 }
-
