@@ -22,7 +22,15 @@
     "analysis",
     "cli"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanambavi/llm-inspector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/namanambavi/llm-inspector/issues"
+  },
+  "homepage": "https://github.com/namanambavi/llm-inspector#readme",
+  "author": "namanambavi",
   "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.23.6",
